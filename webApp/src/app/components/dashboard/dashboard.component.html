@@ -54,8 +54,8 @@
                         <span>{{getNodeInfoList?.connectionInfo?.port}} </span>
                         <strong>&nbsp;</strong>
                         <strong> IP Address:</strong>
-                        <!-- <span>***.***.***.***</span> -->
-                        <span>{{getNodeInfoList?.connectionInfo?.ip}}</span>
+                        <span>***.***.***.***</span>
+                        <!-- <span>{{getNodeInfoList?.connectionInfo?.ip}}</span> -->
                     </p>
                 </div>
             </div>
@@ -88,7 +88,8 @@
                     <td>{{getNodeItem?.nodeName}}</td>
                     <td>{{getNodeItem?.role}}</td>
                     <td class="node pubkey" title="{{getNodeItem?.publicKey}}">{{getNodeItem?.publicKey}}</td>
-                    <td class="ip-addr">{{getNodeItem?.ip}}</td>
+                    <!--- <td class="ip-addr">{{getNodeItem?.ip}}</td> --->
+                    <td class="ip-addr">***.***.***.***</td>
                     <td class="time">
                         <span class="spinner-bg" *ngIf="!getNodeItem?.time"></span> {{getMiliSeconds(getNodeItem?.time) }}</td>
                     <td class="node enodeid" title="{{getNodeItem?.enode}}">{{getNodeItem?.enode}}</td>
