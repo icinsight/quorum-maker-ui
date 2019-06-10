@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="122" height="29" xmlns="http://www.w3.org/2000/svg">
- <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-
- <title>Quorum Maker</title>
- <desc>Created with Sketch.</desc>
- <g>
+<g>
   <title>background</title>
-  <rect x="-1" y="-1" width="124" height="31" id="canvas_background" fill="none"/>
+  <rect fill="none" id="canvas_background" height="6.833329" width="22.333316" y="-1" x="-1"/>
  </g>
  <g>
   <title>Layer 1</title>
-  <text fill="#000000" stroke-width="0" x="12.75" y="9.239583" id="svg_3" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(2.1761722564697266,0,0,1.232012584827327,-24.074775874614716,4.810075534802759) " stroke="#000"/>
-  <text fill="#000" stroke-width="0" x="6.442897" y="14.972692" id="svg_12" font-size="15" font-family="Euphoria, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" transform="matrix(1.4263039617924669,0,0,1.4831046553891722,-3.156455564367131,0.2934227276860244) " stroke="#000">0xBitChain</text>
+  <text stroke="#000" transform="matrix(2.1761722564697266,0,0,1.232012584827327,-24.074775874614716,4.810075534802759) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_3" y="9.239583" x="12.75" stroke-width="0" fill="#000000"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="21" id="svg_2" y="21.239523" x="4.583832" stroke-width="0" stroke="#000" fill="#000">Moosechain</text>
  </g>
 </svg>
